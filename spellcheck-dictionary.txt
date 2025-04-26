@@ -24,6 +24,7 @@ CLI
 Clippy
 config
 crypto
+dApp
 deallocate
 deserialization
 deserialize
