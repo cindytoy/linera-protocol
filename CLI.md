@@ -1395,7 +1395,7 @@ Initialize a namespace in the database
 
 **Usage:** `linera storage initialize --genesis <GENESIS_CONFIG_PATH>`
 
-###### **Options:**
+###### **Option:**
 
 * `--genesis <GENESIS_CONFIG_PATH>`
 
